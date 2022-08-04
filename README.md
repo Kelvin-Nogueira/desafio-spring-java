@@ -1,4 +1,3 @@
-# DIO Bootcamp - Projeto na Prática em JAVA
+# Desafio Spring/Java
 
-Repositório com as implementações dos padrões de projeto explorados na aula do bootcamp da DIO <br>
-"Explorando Padrões de Projetos na Prática com Java"
+Explorando o conceito de Padrões de Projeto com Java.
